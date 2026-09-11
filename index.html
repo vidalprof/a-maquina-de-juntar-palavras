@@ -54,6 +54,12 @@ button{font-family:inherit;cursor:pointer}
 .bt[disabled]{opacity:.45;cursor:default;box-shadow:none}
 .bt.cinza{background:#e4e6f2;color:#4a4f66;box-shadow:0 4px 0 #c3c7dc}
 .bt.verde{background:#15a34a;box-shadow:0 4px 0 #0d7736}
+/* ⚠️ O BOTÃO AZUL EXISTIA NO CÓDIGO E NÃO NO CSS (set/2026). O `bt azul`
+   das folhas de escutar caía no roxo do `.bt` — e ele é justamente o que
+   tem que se distinguir dos botões de resposta, porque não é resposta: é
+   o ENUNCIADO daquela folha. Classe usada sem regra não dá erro nenhum,
+   só não pinta. */
+.bt.azul{background:#1179bf;box-shadow:0 4px 0 #0b5687}
 .zap{width:42px;height:42px;border-radius:50%;border:0;background:#6d5ae6;box-shadow:0 3px 0 #4c3cbb;
   display:inline-flex;align-items:center;justify-content:center;padding:0;flex:none}
 .zap svg{width:22px;height:22px;fill:#fff}
