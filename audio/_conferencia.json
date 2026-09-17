@@ -8,6 +8,11 @@
    "pedacos": 2
   },
   {
+   "palavra": "banana",
+   "caminho": "corrida",
+   "pedacos": 3
+  },
+  {
    "palavra": "bolo",
    "caminho": "corrida",
    "pedacos": 2
@@ -18,19 +23,14 @@
    "pedacos": 3
   },
   {
-   "palavra": "banana",
+   "palavra": "bota",
    "caminho": "corrida",
-   "pedacos": 3
+   "pedacos": 2
   },
   {
    "palavra": "borboleta",
    "caminho": "corrida",
    "pedacos": 4
-  },
-  {
-   "palavra": "bota",
-   "caminho": "corrida",
-   "pedacos": 2
   },
   {
    "palavra": "casa",
@@ -48,7 +48,7 @@
    "pedacos": 2
   },
   {
-   "palavra": "coruja",
+   "palavra": "cenoura",
    "caminho": "corrida",
    "pedacos": 3
   },
@@ -58,17 +58,12 @@
    "pedacos": 3
   },
   {
-   "palavra": "cenoura",
+   "palavra": "coruja",
    "caminho": "corrida",
    "pedacos": 3
   },
   {
    "palavra": "faca",
-   "caminho": "corrida",
-   "pedacos": 2
-  },
-  {
-   "palavra": "gato",
    "caminho": "corrida",
    "pedacos": 2
   },
@@ -83,17 +78,7 @@
    "pedacos": 3
   },
   {
-   "palavra": "girafa",
-   "caminho": "corrida",
-   "pedacos": 3
-  },
-  {
-   "palavra": "lupa",
-   "caminho": "corrida",
-   "pedacos": 2
-  },
-  {
-   "palavra": "lata",
+   "palavra": "gato",
    "caminho": "corrida",
    "pedacos": 2
   },
@@ -103,12 +88,17 @@
    "pedacos": 3
   },
   {
+   "palavra": "girafa",
+   "caminho": "corrida",
+   "pedacos": 3
+  },
+  {
    "palavra": "janela",
    "caminho": "corrida",
    "pedacos": 3
   },
   {
-   "palavra": "maca",
+   "palavra": "lata",
    "caminho": "corrida",
    "pedacos": 2
   },
@@ -118,17 +108,52 @@
    "pedacos": 3
   },
   {
-   "palavra": "pato",
-   "caminho": "corrida",
-   "pedacos": 2
-  },
-  {
    "palavra": "macaco",
    "caminho": "corrida",
    "pedacos": 3
   },
   {
+   "palavra": "maca",
+   "caminho": "corrida",
+   "pedacos": 2
+  },
+  {
+   "palavra": "lupa",
+   "caminho": "corrida",
+   "pedacos": 2
+  },
+  {
    "palavra": "pipa",
+   "caminho": "corrida",
+   "pedacos": 2
+  },
+  {
+   "palavra": "pirulito",
+   "caminho": "corrida",
+   "pedacos": 4
+  },
+  {
+   "palavra": "pipoca",
+   "caminho": "corrida",
+   "pedacos": 3
+  },
+  {
+   "palavra": "pato",
+   "caminho": "corrida",
+   "pedacos": 2
+  },
+  {
+   "palavra": "rato",
+   "caminho": "corrida",
+   "pedacos": 2
+  },
+  {
+   "palavra": "sapo",
+   "caminho": "corrida",
+   "pedacos": 2
+  },
+  {
+   "palavra": "sino",
    "caminho": "corrida",
    "pedacos": 2
   },
@@ -138,37 +163,7 @@
    "pedacos": 3
   },
   {
-   "palavra": "pirulito",
-   "caminho": "corrida",
-   "pedacos": 4
-  },
-  {
-   "palavra": "rato",
-   "caminho": "corrida",
-   "pedacos": 2
-  },
-  {
-   "palavra": "pipoca",
-   "caminho": "corrida",
-   "pedacos": 3
-  },
-  {
-   "palavra": "sapo",
-   "caminho": "corrida",
-   "pedacos": 2
-  },
-  {
-   "palavra": "tartaruga",
-   "caminho": "corrida",
-   "pedacos": 4
-  },
-  {
-   "palavra": "tomate",
-   "caminho": "corrida",
-   "pedacos": 3
-  },
-  {
-   "palavra": "sino",
+   "palavra": "vela",
    "caminho": "corrida",
    "pedacos": 2
   },
@@ -178,9 +173,14 @@
    "pedacos": 2
   },
   {
-   "palavra": "vela",
+   "palavra": "tomate",
    "caminho": "corrida",
-   "pedacos": 2
+   "pedacos": 3
+  },
+  {
+   "palavra": "tartaruga",
+   "caminho": "corrida",
+   "pedacos": 4
   }
  ],
  "nao_conferidas": []
